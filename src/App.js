@@ -8,7 +8,7 @@ class App extends Component {
     return (
       <div>
       <Header/>
-      <Main className='card-body'
+      <Main
       itemName = 'Cafe Americano'
       itemPrice = 'S/. 2.5'
       description = 'Cafe pasado con o sin leche'

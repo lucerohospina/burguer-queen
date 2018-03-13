@@ -15,9 +15,6 @@ const Header =()=> {
             Burger Queen
           </a>
         </nav>
-        <div className="container-fluid">
-          un contenedor
-        </div>
       </div>
     );
   

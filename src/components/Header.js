@@ -1,5 +1,5 @@
 import React from 'react';
-import burger3 from './burger3.svg';
+import burger3 from '../burger3.svg';
 
 const Header =()=> {
   const style = {
